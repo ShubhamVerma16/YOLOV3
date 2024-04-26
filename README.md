@@ -1,5 +1,11 @@
 # YOLOV3
 
+## Training results
+| MAP@0.5 | F1    
+| :---:   | :---: |
+| 0.995 | 0.982   | 
+     
+
 ## Model Files
  - Coco data set model: https://drive.google.com/file/d/1G-rDXO8fu0rIRPOmQAjTb-4AtRAOGFXF/view?usp=drive_link
  - Custom Dataset model: https://drive.google.com/file/d/1hs-tk_pHwxggGTJkLyQP5B-4AeIOkABn/view?usp=drive_link
