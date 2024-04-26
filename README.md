@@ -1,5 +1,9 @@
 # YOLOV3
 
+## Model Files
+ - Coco data set model: https://drive.google.com/file/d/1G-rDXO8fu0rIRPOmQAjTb-4AtRAOGFXF/view?usp=drive_link
+ - Custom Dataset model: https://drive.google.com/file/d/1hs-tk_pHwxggGTJkLyQP5B-4AeIOkABn/view?usp=drive_link
+ - 
 ## Training Logs
 ```
 Starting training for 300 epochs...
