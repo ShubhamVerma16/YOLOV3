@@ -3,7 +3,7 @@
 ## Model Files
  - Coco data set model: https://drive.google.com/file/d/1G-rDXO8fu0rIRPOmQAjTb-4AtRAOGFXF/view?usp=drive_link
  - Custom Dataset model: https://drive.google.com/file/d/1hs-tk_pHwxggGTJkLyQP5B-4AeIOkABn/view?usp=drive_link
- - 
+   
 ## Training Logs
 ```
 Starting training for 300 epochs...
@@ -1298,6 +1298,29 @@ Model Bias Summary:    layer        regression        objectness    classificati
    255/299     7.93G     0.913     0.311         0      1.22        18       512: 100%|█████████| 2/2 [00:02<00:00,  1.23s/it]
                Class    Images   Targets         P         R   mAP@0.5        F1:   0%|                 | 0/2 [00:00<?, ?it/s]
 ```
-## Training Curves
 
 ## Classified Images
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/421ed8eb-7956-4812-903f-49e6ea719197) 
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/511afecd-5fa1-4601-822c-a9ba7bebf6c0)
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/42b5921e-2439-4f60-81c2-c74098619fcd) 
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/d6ccaf80-1545-4373-b132-ed0e8e76948d)
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/354dbd4d-7925-44b8-a8d8-b279ea0a078f) 
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/1ab85de7-2076-49d5-9922-87da51c9ccf3)
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/a1b3cf63-94f9-4d87-8da5-4c8468a6a449) 
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/59a65a7e-5a4d-4ecf-ba68-5eb472b0275f)
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/2824ca5f-692d-4ca8-9a5e-545d2d1822cc) 
+![image](https://github.com/ShubhamVerma16/YOLOV3/assets/46774613/36bae88e-effe-42c3-9910-b5373050e080)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
